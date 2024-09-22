@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/siavashyj.github.io/static/css/main.09653509.css",
+    "main.js": "/siavashyj.github.io/static/js/main.293e73ac.js",
+    "static/js/453.fa56b778.chunk.js": "/siavashyj.github.io/static/js/453.fa56b778.chunk.js",
+    "static/media/logo.svg": "/siavashyj.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/siavashyj.github.io/index.html",
+    "main.09653509.css.map": "/siavashyj.github.io/static/css/main.09653509.css.map",
+    "main.293e73ac.js.map": "/siavashyj.github.io/static/js/main.293e73ac.js.map",
+    "453.fa56b778.chunk.js.map": "/siavashyj.github.io/static/js/453.fa56b778.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09653509.css",
+    "static/js/main.293e73ac.js"
+  ]
+}
